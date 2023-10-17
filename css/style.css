@@ -1,0 +1,65 @@
+body {
+    background-color: #F8F0E5;
+    /*font-family: 'Roboto', sans-serif;*/
+}
+
+h1, h2, h3 {
+    font-family: Ubuntu, sans-serif;
+    color: #092f6d;
+}
+
+hr {
+    width: 90%;
+    color: #dee2e6;
+}
+
+p {
+    font-family: "Ubuntu Mono", sans-serif;
+    color: #092f6d;
+}
+
+.profile-picture {
+    width: 260px;
+    height: 260px;
+}
+
+
+
+#cloud-1, #cloud-2 {
+    display: none;
+}
+
+@media (min-width: 960px) {
+    .header {
+        position: relative;
+    }
+
+    #cloud-1, #cloud-2 {
+        display: inline-block;
+    }
+
+    #cloud-1 {
+        position: absolute;
+        left: 10%;
+    }
+
+    #cloud-2 {
+        position: absolute;
+        right: 5%;
+        top: 35%;
+    }
+}
+
+#gif1 {
+    height: 200px;
+    width: 350px;
+}
+
+#gif2 {
+    height: 200px;
+}
+
+#gif3 {
+    height: 200px;
+    width: 200px;
+}
