@@ -8,6 +8,10 @@ h1, h2, h3 {
     color: #092f6d;
 }
 
+h3 {
+    text-decoration: underline;
+}
+
 hr {
     width: 90%;
     color: #dee2e6;
