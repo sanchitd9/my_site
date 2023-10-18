@@ -1,6 +1,5 @@
 body {
     background-color: #F8F0E5;
-    /*font-family: 'Roboto', sans-serif;*/
 }
 
 h1, h2, h3 {
@@ -22,24 +21,12 @@ p {
     color: #092f6d;
 }
 
-
-
-
-/*#gif1 {*/
-/*    height: 200px;*/
-/*    width: 350px;*/
-/*}*/
-
-/*#gif2 {*/
-/*    height: 200px;*/
-/*}*/
-
-/*#gif3 {*/
-/*    height: 200px;*/
-/*    width: 200px;*/
-/*}*/
+#gif {
+    /*height: 200px;*/
+    width: 200px;
+}
 
 .profile-picture {
     width: 260px;
-    height: 260px;
+    height: auto;
 }
