@@ -16,7 +16,7 @@ hr {
     color: #dee2e6;
 }
 
-p {
+p, li {
     font-family: "Ubuntu Mono", sans-serif;
     color: #092f6d;
 }
